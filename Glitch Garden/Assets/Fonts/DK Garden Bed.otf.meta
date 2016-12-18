@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a7af29bbcc859174e8f158fcc33d4bd2
+timeCreated: 1481506862
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Garden Bed
+  fontNames:
+  - DK Garden Bed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
